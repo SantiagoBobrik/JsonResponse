@@ -76,10 +76,4 @@ Teniendo como resultado:
 }
 ```
 
-THREOW
-
-QUE ES EL PATRON REPOSITORY
-
-DIFERENCIA CON MVC
-
 #
