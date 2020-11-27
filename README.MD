@@ -44,8 +44,8 @@ La repuesta HTTP tiene dos formatos claros.
 ```json
 //Status code 200
 {
-  "name": "Juancho",
-  "lastName": "Talarga"
+  "name": "Pepe",
+  "lastName": "Pepito"
 }
 ```
 
